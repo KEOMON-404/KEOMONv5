@@ -21,8 +21,8 @@ cd KEOMONv5
 python run py
 ```
 ##
-Get ready to experience the power of KEOMONv5! Happy hacking! 🚀
+Get ready to experience the power of KEOMONv5 !!!
 
-### SPECIAL THANKS TO :-
-<h4> HARRY-EXE <h4>
-<h4> sauravhxyZ <h4>
+## SPECIAL THANKS TO :-
+<h4> [HARRY-EXE](https://github.com/HARRY-EXE) <h4>
+<h4> [sauravhxyZ](https://github.com/sauravhxyZ) <h4>

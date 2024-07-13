@@ -1,5 +1,5 @@
 # KEOMONv6
-  <h4> Welcome to KEOMONv5, the latest version of the FACEBOOK Cloning tool developed by KEOMON-404. With KEOMONv5, you can crack public and file with regular updates and absolutely free of cost .! </h4>
+  <h4> Welcome to KEOMONv5, a FACEBOOK Cloning tool developed by KEOMON-404. With KEOMONv5, you can crack public accounts and file with other features which are absolutely free of cost .! </h4>
 
 ### TERMUX SETUP AND COMMANDS.
 To utilize this tool, you first need to have [Termux](https://f-droid.org/repo/com.termux_118.apk) installed. Once installed, enter the following command into Termux to proceed.

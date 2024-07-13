@@ -5,13 +5,16 @@
 To utilize this tool, you first need to have [Termux](https://f-droid.org/repo/com.termux_118.apk) installed. Once installed, enter the following command into Termux to proceed.
 
 ```
-pkg update && pkg upgrade
+termux-setup-storage
+pkg update
+pkg upgrade
 pkg install python
+pkg install python2
+pip install requests
+pip install mechanize
+pip install bs4
+pip install rich
 pkg install git
-pkg install bs4
-pkg install rich
-pkg install requests
-pkg install mechanize
 ```
 
 ```

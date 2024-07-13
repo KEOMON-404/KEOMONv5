@@ -1,4 +1,4 @@
-# KEOMONv6 - Facebook Bruteforce Tool
+# KEOMONv6
   <h4> Welcome to KEOMONv5, the latest version of the FACEBOOK Cloning tool developed by KEOMON-404. With KEOMONv5, you can crack public and file with regular updates and absolutely free of cost .! </h4>
 
 ### TERMUX SETUP AND COMMANDS.
@@ -21,8 +21,8 @@ cd KEOMONv5
 python run py
 ```
 ##
-Get ready to experience the power of KEOMONv5 !!!
+I'm just learning new things. If there are mistakes in this tool, please kindly give advice. It will help me a lot. Thanks❤️
 
 ## SPECIAL THANKS TO :-
-[HARRY-EXE](https://github.com/HARRY-EXE)
+[HARRY-EXE](https://github.com/HARRY-EXE) &
 [sauravhxyZ](https://github.com/sauravhxyZ)

@@ -24,5 +24,5 @@ python run py
 Get ready to experience the power of KEOMONv5 !!!
 
 ## SPECIAL THANKS TO :-
-<h4> [HARRY-EXE](https://github.com/HARRY-EXE) <h4>
-<h4> [sauravhxyZ](https://github.com/sauravhxyZ) <h4>
+[HARRY-EXE](https://github.com/HARRY-EXE)
+[sauravhxyZ](https://github.com/sauravhxyZ)

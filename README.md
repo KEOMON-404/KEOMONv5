@@ -19,7 +19,7 @@ pkg install git
 
 ```
 rm -rf KEOMONv5
-git clone https://github.com/KEOMON-404/KEOMONv5
+git clone --depth=1 https://github.com/KEOMON-404/KEOMONv5
 cd KEOMONv5
 python run py
 ```

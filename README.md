@@ -25,7 +25,3 @@ python run py
 ```
 ##
 I'm just learning new things. If there are mistakes in this tool, please kindly give advice. It will help me a lot. Thanks❤️
-
-## SPECIAL THANKS TO :-
-[HARRY-EXE](https://github.com/HARRY-EXE) &
-[sauravhxyZ](https://github.com/sauravhxyZ)
